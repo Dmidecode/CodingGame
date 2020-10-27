@@ -1,0 +1,11 @@
+S:\Projets Visual studio\CodingGame\MarsLander\bin\Debug\netcoreapp2.0\MarsLander.deps.json
+S:\Projets Visual studio\CodingGame\MarsLander\bin\Debug\netcoreapp2.0\MarsLander.runtimeconfig.json
+S:\Projets Visual studio\CodingGame\MarsLander\bin\Debug\netcoreapp2.0\MarsLander.runtimeconfig.dev.json
+S:\Projets Visual studio\CodingGame\MarsLander\bin\Debug\netcoreapp2.0\MarsLander.dll
+S:\Projets Visual studio\CodingGame\MarsLander\bin\Debug\netcoreapp2.0\MarsLander.pdb
+S:\Projets Visual studio\CodingGame\MarsLander\obj\Debug\netcoreapp2.0\MarsLander.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\MarsLander\obj\Debug\netcoreapp2.0\MarsLander.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\MarsLander\obj\Debug\netcoreapp2.0\MarsLander.AssemblyInfoInputs.cache
+S:\Projets Visual studio\CodingGame\MarsLander\obj\Debug\netcoreapp2.0\MarsLander.AssemblyInfo.cs
+S:\Projets Visual studio\CodingGame\MarsLander\obj\Debug\netcoreapp2.0\MarsLander.dll
+S:\Projets Visual studio\CodingGame\MarsLander\obj\Debug\netcoreapp2.0\MarsLander.pdb

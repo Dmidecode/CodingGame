@@ -1,0 +1,7 @@
+S:\Projets Visual studio\CodingGame\OusmaneExemple\bin\Debug\OusmaneExemple.exe.config
+S:\Projets Visual studio\CodingGame\OusmaneExemple\bin\Debug\OusmaneExemple.exe
+S:\Projets Visual studio\CodingGame\OusmaneExemple\bin\Debug\OusmaneExemple.pdb
+S:\Projets Visual studio\CodingGame\OusmaneExemple\obj\Debug\OusmaneExemple.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\OusmaneExemple\obj\Debug\OusmaneExemple.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\OusmaneExemple\obj\Debug\OusmaneExemple.exe
+S:\Projets Visual studio\CodingGame\OusmaneExemple\obj\Debug\OusmaneExemple.pdb

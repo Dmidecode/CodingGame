@@ -1,0 +1,7 @@
+S:\Projets Visual studio\CodingGame\TaskExemple\bin\Debug\TaskExemple.exe.config
+S:\Projets Visual studio\CodingGame\TaskExemple\bin\Debug\TaskExemple.exe
+S:\Projets Visual studio\CodingGame\TaskExemple\bin\Debug\TaskExemple.pdb
+S:\Projets Visual studio\CodingGame\TaskExemple\obj\Debug\TaskExemple.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\TaskExemple\obj\Debug\TaskExemple.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\TaskExemple\obj\Debug\TaskExemple.exe
+S:\Projets Visual studio\CodingGame\TaskExemple\obj\Debug\TaskExemple.pdb

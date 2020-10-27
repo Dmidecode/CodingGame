@@ -1,0 +1,116 @@
+﻿{
+"PaymentOrder": {
+"Id": 999948772018,
+"MerchantId": "odalys-fr",
+"PaymentPageId": "ChequeVacances-Odalys",
+"Amount": 385.00,
+"Currency": "EUR",
+"Status": "Authorized",
+"CreateDate": "2018-11-02T09:02:35.673Z",
+"PaymentPageUrl": "https://payment.limonetikqualif.com/ChequeVacances/Order/PayPage/999948772018?LmkData=dGhtPU9kYWx5cyZsZz1mci1GUg==",
+"PaymentMethods": [
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456781",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456782",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456783",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456784",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456785",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456786",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456787",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "PaperVoucher",
+"Brand": "Chèque Vacances - ANCV",
+"Ref": "123456788",
+"Processor": "Limonetik",
+"AuthorizedAmount": 0.0,
+"AuthorizingAmount": 10.00,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "BankCard",
+"Brand": "VISA",
+"Ref": "XXXXXXXXXXXX1111",
+"Processor": "Ingenico Payment Services",
+"AuthorizedAmount": 80.00,
+"AuthorizingAmount": 0.0,
+"DebitedAmount": 0.0,
+"RecreditedAmount": 0.0
+},
+{
+"Type": "BankCard",
+"Brand": "VISA",
+"Processor": "Ingenico Payment Services",
+"AuthorizedAmount": 305.00,
+"AuthorizingAmount": 0.0,
+"DebitedAmount": 305.00,
+"RecreditedAmount": 0.0
+}
+]
+},
+"RequestId": "2586d5a1-cea6-430f-9d3e-12095625934f",
+"ReturnCode": 1000,
+"ReturnMessage": "Success"
+}

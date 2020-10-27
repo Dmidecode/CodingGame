@@ -1,0 +1,7 @@
+S:\Projets Visual studio\CodingGame\Chuck Norris\bin\Debug\Chuck Norris.exe.config
+S:\Projets Visual studio\CodingGame\Chuck Norris\bin\Debug\Chuck Norris.exe
+S:\Projets Visual studio\CodingGame\Chuck Norris\bin\Debug\Chuck Norris.pdb
+S:\Projets Visual studio\CodingGame\Chuck Norris\obj\Debug\Chuck Norris.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\Chuck Norris\obj\Debug\Chuck Norris.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\Chuck Norris\obj\Debug\Chuck Norris.exe
+S:\Projets Visual studio\CodingGame\Chuck Norris\obj\Debug\Chuck Norris.pdb

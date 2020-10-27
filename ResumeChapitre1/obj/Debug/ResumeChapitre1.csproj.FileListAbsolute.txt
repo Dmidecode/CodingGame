@@ -1,0 +1,12 @@
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\ResumeChapitre1.exe.config
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\ResumeChapitre1.exe
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\ResumeChapitre1.pdb
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\obj\Debug\ResumeChapitre1.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\obj\Debug\ResumeChapitre1.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\obj\Debug\ResumeChapitre1.exe
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\obj\Debug\ResumeChapitre1.pdb
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\Ressources\Musiques\ANewWarriorHasEnteredTheRing.wav
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\Ressources\Musiques\BalrogTheme.wav
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\Ressources\Musiques\GuildeTheme.wav
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\Ressources\Musiques\KenTheme.wav
+S:\Projets Visual studio\CodingGame\ResumeChapitre1\bin\Debug\Ressources\Musiques\RyuTheme.wav

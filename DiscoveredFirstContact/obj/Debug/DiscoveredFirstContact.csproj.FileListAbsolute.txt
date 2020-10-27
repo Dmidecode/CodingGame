@@ -1,0 +1,15 @@
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\DiscoveredFirstContact.exe.config
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\DiscoveredFirstContact.exe
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\DiscoveredFirstContact.pdb
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\obj\Debug\DiscoveredFirstContact.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\obj\Debug\DiscoveredFirstContact.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\obj\Debug\DiscoveredFirstContact.exe
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\obj\Debug\DiscoveredFirstContact.pdb
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\ResumeChapitre1.exe
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\ResumeChapitre1.pdb
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\ResumeChapitre1.exe.config
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\obj\Debug\DiscoveredFirstContact.csproj.CopyComplete
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\Ressources\Musiques\ANewWarriorHasEnteredTheRing.wav
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\Ressources\Musiques\BalrogTheme.wav
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\Ressources\Musiques\GuildeTheme.wav
+S:\Projets Visual studio\CodingGame\DiscoveredFirstContact\bin\Debug\Ressources\Musiques\KenTheme.wav

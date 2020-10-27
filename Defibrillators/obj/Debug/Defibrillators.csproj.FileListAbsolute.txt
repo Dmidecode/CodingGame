@@ -1,0 +1,7 @@
+S:\Projets Visual studio\CodingGame\Defibrillators\bin\Debug\Defibrillators.exe.config
+S:\Projets Visual studio\CodingGame\Defibrillators\bin\Debug\Defibrillators.exe
+S:\Projets Visual studio\CodingGame\Defibrillators\bin\Debug\Defibrillators.pdb
+S:\Projets Visual studio\CodingGame\Defibrillators\obj\Debug\Defibrillators.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\Defibrillators\obj\Debug\Defibrillators.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\Defibrillators\obj\Debug\Defibrillators.exe
+S:\Projets Visual studio\CodingGame\Defibrillators\obj\Debug\Defibrillators.pdb

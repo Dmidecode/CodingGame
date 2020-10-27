@@ -1,0 +1,7 @@
+S:\Projets Visual studio\CodingGame\TestCopieReference\bin\Debug\TestCopieReference.exe.config
+S:\Projets Visual studio\CodingGame\TestCopieReference\bin\Debug\TestCopieReference.exe
+S:\Projets Visual studio\CodingGame\TestCopieReference\bin\Debug\TestCopieReference.pdb
+S:\Projets Visual studio\CodingGame\TestCopieReference\obj\Debug\TestCopieReference.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\TestCopieReference\obj\Debug\TestCopieReference.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\TestCopieReference\obj\Debug\TestCopieReference.exe
+S:\Projets Visual studio\CodingGame\TestCopieReference\obj\Debug\TestCopieReference.pdb

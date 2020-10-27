@@ -1,0 +1,7 @@
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\bin\Debug\HorseRacingDuals.exe.config
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\bin\Debug\HorseRacingDuals.exe
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\bin\Debug\HorseRacingDuals.pdb
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\obj\Debug\HorseRacingDuals.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\obj\Debug\HorseRacingDuals.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\obj\Debug\HorseRacingDuals.exe
+S:\Projets Visual studio\CodingGame\HorseRacingDuals\obj\Debug\HorseRacingDuals.pdb

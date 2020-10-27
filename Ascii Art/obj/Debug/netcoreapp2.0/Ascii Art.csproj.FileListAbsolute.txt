@@ -1,0 +1,11 @@
+S:\Projets Visual studio\CodingGame\Ascii Art\bin\Debug\netcoreapp2.0\Ascii Art.deps.json
+S:\Projets Visual studio\CodingGame\Ascii Art\bin\Debug\netcoreapp2.0\Ascii Art.runtimeconfig.json
+S:\Projets Visual studio\CodingGame\Ascii Art\bin\Debug\netcoreapp2.0\Ascii Art.runtimeconfig.dev.json
+S:\Projets Visual studio\CodingGame\Ascii Art\bin\Debug\netcoreapp2.0\Ascii Art.dll
+S:\Projets Visual studio\CodingGame\Ascii Art\bin\Debug\netcoreapp2.0\Ascii Art.pdb
+S:\Projets Visual studio\CodingGame\Ascii Art\obj\Debug\netcoreapp2.0\Ascii Art.csprojAssemblyReference.cache
+S:\Projets Visual studio\CodingGame\Ascii Art\obj\Debug\netcoreapp2.0\Ascii Art.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\CodingGame\Ascii Art\obj\Debug\netcoreapp2.0\Ascii Art.AssemblyInfoInputs.cache
+S:\Projets Visual studio\CodingGame\Ascii Art\obj\Debug\netcoreapp2.0\Ascii Art.AssemblyInfo.cs
+S:\Projets Visual studio\CodingGame\Ascii Art\obj\Debug\netcoreapp2.0\Ascii Art.dll
+S:\Projets Visual studio\CodingGame\Ascii Art\obj\Debug\netcoreapp2.0\Ascii Art.pdb
